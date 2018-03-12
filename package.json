@@ -1,0 +1,23 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "Landing page for natours",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "node-sass": "^4.8.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mka281/natours.git"
+  },
+  "author": "mka",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mka281/natours/issues"
+  },
+  "homepage": "https://github.com/mka281/natours#readme"
+}
